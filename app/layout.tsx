@@ -9,9 +9,9 @@ const vazirmatn = Vazirmatn({ subsets: ["arabic", "latin"] })
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "جمعی سایا - ما موجودات دیجیتال می‌سازیم",
+  title: "جمعی کاربلدان - ما موجودات دیجیتال می‌سازیم",
   description: "تیمی از ۱۰ توسعه‌دهنده که با کد، سکوت و دقت آینده را می‌سازند.",
-    generator: 'v0.app'
+    generator: 'saya.app'
 }
 
 export default function RootLayout({
