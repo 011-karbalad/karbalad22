@@ -3,7 +3,8 @@ import type { Metadata } from "next"
 import { Vazirmatn, JetBrains_Mono } from "next/font/google"
 import "./globals.css"
 import { SpeedInsights } from "@vercel/speed-insights/next"
-  
+  import { Analytics } from "@vercel/analytics/next"
+
 const vazirmatn = Vazirmatn({ subsets: ["arabic", "latin"] })
 const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] })
 
