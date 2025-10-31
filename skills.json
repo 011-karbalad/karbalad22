@@ -1,0 +1,74 @@
+[
+  {
+    "name": "React",
+    "category": "frontend",
+    "icon": "⚛️",
+    "level": "expert"
+  },
+  {
+    "name": "Next.js",
+    "category": "frontend",
+    "icon": "▲",
+    "level": "expert"
+  },
+  {
+    "name": "TypeScript",
+    "category": "frontend",
+    "icon": "TS",
+    "level": "advanced"
+  },
+  {
+    "name": "Tailwind CSS",
+    "category": "frontend",
+    "icon": "🎨",
+    "level": "expert"
+  },
+  {
+    "name": "Three.js",
+    "category": "frontend",
+    "icon": "🎮",
+    "level": "advanced"
+  },
+  {
+    "name": "Node.js",
+    "category": "backend",
+    "icon": "🟢",
+    "level": "expert"
+  },
+  {
+    "name": "Python",
+    "category": "backend",
+    "icon": "🐍",
+    "level": "advanced"
+  },
+  {
+    "name": "Solidity",
+    "category": "blockchain",
+    "icon": "⬨",
+    "level": "advanced"
+  },
+  {
+    "name": "Web3.js",
+    "category": "blockchain",
+    "icon": "🔗",
+    "level": "advanced"
+  },
+  {
+    "name": "Qiskit",
+    "category": "tools",
+    "icon": "⚛️",
+    "level": "intermediate"
+  },
+  {
+    "name": "Figma",
+    "category": "design",
+    "icon": "🎨",
+    "level": "advanced"
+  },
+  {
+    "name": "UI/UX Design",
+    "category": "design",
+    "icon": "✨",
+    "level": "expert"
+  }
+]

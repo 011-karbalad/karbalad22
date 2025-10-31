@@ -1,0 +1,6 @@
+[
+  {"name": "React", "category": "frontend", "icon": "react"},
+  {"name": "Solidity", "category": "blockchain", "icon": "ethereum"},
+  {"name": "Figma", "category": "design", "icon": "figma"},
+  {"name": "Python", "category": "backend", "icon": "python"}
+]

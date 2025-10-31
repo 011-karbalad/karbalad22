@@ -1,0 +1,80 @@
+[
+  {
+    "id": "proj-001",
+    "title": "HSTL Marketplace",
+    "description": "مارکت‌پلیس تجارت الکترونیک با تجربه Web3 تعاملی. ساخته شده با Next.js، Three.js و Tailwind با کمپین‌های اجتماعی یکپارچه.",
+    "thumbnail": "/placeholder.svg?height=400&width=600",
+    "stack": ["Next.js", "Three.js", "Tailwind CSS", "Web3.js", "TypeScript"],
+    "roles": ["توسعه فول‌استک", "طراحی 3D", "یکپارچه‌سازی Web3"],
+    "price_range": "۱۵۰۰ - ۳۰۰۰ دلار",
+    "demo": "https://hstl.example.com",
+    "github": "https://github.com/011-karbalad/hstl-marketplace",
+    "status": "completed",
+    "year": "2025"
+  },
+  {
+    "id": "proj-002",
+    "title": "فروشگاه پوشاک + اپلیکیشن NFT",
+    "description": "محصولات دنیای واقعی با مالکیت NFT. شامل امتحان AR و قیمت‌گذاری پویای NFT روی بلاکچین Polygon.",
+    "thumbnail": "/placeholder.svg?height=400&width=600",
+    "stack": ["Next.js", "Solidity", "Polygon", "AR.js", "Jest"],
+    "roles": ["توسعه فول‌استک", "توسعه قرارداد هوشمند", "یکپارچه‌سازی AR"],
+    "price_range": "۲۰۰۰ - ۴۰۰۰ دلار",
+    "demo": "https://clothing-nft.example.com",
+    "github": "https://github.com/011-karbalad/clothing-nft",
+    "status": "completed",
+    "year": "2025"
+  },
+  {
+    "id": "proj-003",
+    "title": "ربات اسکرو کریپتو تلگرام",
+    "description": "معاملات P2P کریپتو بدون نیاز به اعتماد در DM های شما. ساخته شده با Python و API های بلاکچین با UI/UX تمیز.",
+    "thumbnail": "/placeholder.svg?height=400&width=600",
+    "stack": ["Python", "Telegram Bot API", "Blockchain APIs", "SQLite"],
+    "roles": ["توسعه بک‌اند", "یکپارچه‌سازی بلاکچین", "طراحی UX"],
+    "price_range": "۷۰۰ - ۱۰۰۰ دلار",
+    "demo": "https://t.me/crypto_escrow_bot",
+    "github": "https://github.com/011-karbalad/telegram-escrow",
+    "status": "completed",
+    "year": "2025"
+  },
+  {
+    "id": "proj-004",
+    "title": "ربات معاملات Discord + Steam",
+    "description": "بازی با اتوماسیون ملاقات می‌کند. ساخته شده با Steam APIs و بک‌اند Next.js برای تحلیل داده‌های بازار و ردیابی پروفایل.",
+    "thumbnail": "/placeholder.svg?height=400&width=600",
+    "stack": ["Next.js", "Discord.js", "Steam API", "Node.js"],
+    "roles": ["توسعه بک‌اند", "یکپارچه‌سازی API", "تحلیل داده"],
+    "price_range": "۸۰۰ - ۱۵۰۰ دلار",
+    "demo": "#",
+    "github": "https://github.com/011-karbalad/discord-steam-bot",
+    "status": "completed",
+    "year": "2023"
+  },
+  {
+    "id": "proj-005",
+    "title": "پلتفرم Saya",
+    "description": "پلتفرم Web3 برای مالکیت و همکاری هنری. ساده، بی‌آلایش و بی‌ریا.",
+    "thumbnail": "/placeholder.svg?height=400&width=600",
+    "stack": ["Next.js", "Solidity", "IPFS", "Web3.js", "TypeScript"],
+    "roles": ["معماری فنی", "توسعه قرارداد هوشمند", "طراحی UI/UX"],
+    "price_range": "۳۰۰۰+ دلار",
+    "demo": "https://saya.example.com",
+    "github": "https://github.com/011-karbalad/saya",
+    "status": "in-progress",
+    "year": "2025"
+  },
+  {
+    "id": "proj-006",
+    "title": "شبیه‌ساز مدار کوانتومی",
+    "description": "شبیه‌سازی و تجسم مدارهای کوانتومی با Qiskit و Python. رابط تعاملی برای طراحی و آزمایش الگوریتم‌های کوانتومی.",
+    "thumbnail": "/placeholder.svg?height=400&width=600",
+    "stack": ["Python", "Qiskit", "React", "TypeScript", "D3.js"],
+    "roles": ["توسعه کوانتوم", "تجسم داده", "توسعه فرانت‌اند"],
+    "price_range": "۱۵۰۰ - ۳۵۰۰ دلار",
+    "demo": "#",
+    "github": "#",
+    "status": "planned",
+    "year": "2025"
+  }
+]

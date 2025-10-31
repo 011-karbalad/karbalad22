@@ -1,0 +1,118 @@
+[
+  {
+    "id": "dev-011",
+    "name": "فراز",
+    "role": "مدیر پروژه / توسعه‌دهنده فول‌استک / معماری فنی",
+    "avatar": "/faraz.jpg",
+    "bio": "توسعه‌دهنده‌ای با بیش از ۱۸ سال تجربه. علاقه‌مند به کد تمیز و طراحی هوش مصنوعی انسان‌محور. سازنده تجربیات Web3 مینیمال.",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Solidity",
+      "Web3.js",
+      "Three.js",
+      "Python",
+      "Qiskit",
+      "Node.js",
+      "UI/UX Design",
+      "مدیریت تیم"
+    ],
+    "experience": [
+      {
+        "company": "Saya Project",
+        "position": "بنیانگذار و مدیرعامل",
+        "start": "2023-03",
+        "end": "Present",
+        "description": "طراحی تجربیات Web3 مینیمال و لایه‌های تعامل تمیز"
+      }
+    ],
+    "socials": {
+      "github": "https://github.com/011-karbalad",
+      "twitter": "https://x.com/bache_feri",
+      "website": "https://vboy.ir",
+      "email": "farazbadraghe@gmail.com"
+    }
+  },
+  {
+    "id": "dev-001",
+    "name": "آرتور",
+    "role": "مدیر بازاریابی / مدیر مالی / مدیر فنی",
+    "avatar": "/arthur.png",
+    "bio": "ناشناس. رهبر و ارتباط‌دهنده اعضای تیم.",
+    "skills": ["مدیریت تیم", "WordPress", "WooCommerce", "طراحی UI", "Photoshop"],
+    "experience": [
+      {
+        "company": "Saya Project",
+        "position": "هم‌بنیانگذار",
+        "start": "2023-03",
+        "end": "Present",
+        "description": "رهبری و ارتباط با اعضای تیم"
+      }
+    ],
+    "socials": {
+      "github": "#",
+      "twitter": "#",
+      "website": "#"
+    }
+  },
+  {
+    "id": "dev-003",
+    "name": "علی حسینی",
+    "role": "توسعه‌دهنده فرانت‌اند (میانی) / توسعه‌دهنده بلاکچین (مبتدی)",
+    "avatar": "https://i.pinimg.com/736x/3d/99/6d/3d996d743c51537ce64b4642521b5872.jpg",
+    "bio": "توسعه‌دهنده فرانت‌اند با انگیزه و مهارت در حل چالش‌ها",
+    "skills": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Vite", "ES6+", "Solidity", "Web3.js", "HTML", "CSS"],
+    "experience": [
+      {
+        "company": "Saya Dev",
+        "position": "توسعه‌دهنده فرانت‌اند و Web3",
+        "start": "2025-09-20",
+        "end": "Present",
+        "description": "توسعه رابط‌های کاربری و اپلیکیشن‌های غیرمتمرکز"
+      }
+    ],
+    "socials": {
+      "github": "https://github.com/alihosseini2000",
+      "linkedin": "https://www.linkedin.com/in/ali-hoosseini-566463243"
+    }
+  },
+  {
+    "id": "dev-004",
+    "name": "پارسا ابوالحسنی راد",
+    "role": "توسعه‌دهنده بلاکچین",
+    "avatar": "/Parsa.png",
+    "bio": "به دنبال تجربه‌های سخت برای پیشرفت. علاقه‌مند و فعال در حوزه بلاکچین",
+    "skills": ["Solidity", "Python", "C++", "JavaScript", "C#", "Rust", "Adobe Illustrator"],
+    "experience": [
+      {
+        "company": "Saya Dev",
+        "position": "رهبر توسعه بلاکچین",
+        "start": "2025-10-09",
+        "end": "Present",
+        "description": "توسعه قراردادهای هوشمند و معماری بلاکچین"
+      }
+    ],
+    "socials": {
+      "twitter": "https://twitter.com/parsa_abolhasani"
+    }
+  },
+  {
+    "id": "dev-005",
+    "name": "امیررضا",
+    "role": "توسعه‌دهنده فرانت‌اند (میانی)",
+    "avatar": "/placeholder.svg?height=400&width=400",
+    "bio": "توسعه‌دهنده فرانت‌اند با تمرکز بر تجربه کاربری",
+    "skills": ["React", "JavaScript", "CSS", "HTML"],
+    "experience": [
+      {
+        "company": "Saya Dev",
+        "position": "توسعه‌دهنده فرانت‌اند",
+        "start": "2025",
+        "end": "Present",
+        "description": ""
+      }
+    ],
+    "socials": {}
+  }
+]
