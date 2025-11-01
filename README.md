@@ -1,4 +1,4 @@
-# جمعی سایا - Saya Dev Collective
+# جمعی کاربلد (سایا) - Saya Dev Collective
 
 یک پلتفرم کامل برای نمایش پورتفولیو، مدیریت تیم، پروژه‌ها و سیستم تیکتینگ با طراحی minimal و artistic.
 
